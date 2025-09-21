@@ -1,0 +1,10 @@
+  Determining projects to restore...
+  Writing C:\Users\Nontprawitch\AppData\Local\Temp\tmp4jqb2g.tmp
+info : X.509 certificate chain validation will use the default trust store selected by .NET for code signing.
+info : X.509 certificate chain validation will use the default trust store selected by .NET for timestamping.
+info : Adding PackageReference for package 'AutoMapper.Extensions.Microsoft' into project 'D:\Source\Personalibrary\Backend\PersonalLibraryAPI\PersonalLibraryAPI.csproj'.
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft/index.json
+info :   NotFound https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft/index.json 388ms
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft/index.json
+info :   NotFound https://api.nuget.org/v3/registration5-gz-semver2/automapper.extensions.microsoft/index.json 258ms
+error: There are no versions available for the package 'AutoMapper.Extensions.Microsoft'.
